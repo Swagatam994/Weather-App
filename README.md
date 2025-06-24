@@ -18,10 +18,6 @@ A simple and responsive Weather App that shows current weather conditions for an
 - JavaScript  
 - Weather API (e.g., OpenWeatherMap)
 
-## 📷 Screenshots
-
-!(Screenshot(33).png)
-!(Screenshot(32).png)
 
 ## 🛠️ How to Use
 
