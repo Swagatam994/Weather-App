@@ -20,8 +20,8 @@ A simple and responsive Weather App that shows current weather conditions for an
 
 ## 📷 Screenshots
 
-(Screenshot(33).png)
-(Screenshot(32).png)
+!(Screenshot(33).png)
+!(Screenshot(32).png)
 
 ## 🛠️ How to Use
 
